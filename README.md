@@ -1,4 +1,4 @@
-# Pavan-Venkataratnam# 💫 About Me:
+💫 About Me:
 🔭 I’m currently working on Algorithmic problem-solving, Data Structures, and Software Engineering projects<br>👯 I’m looking to collaborate on Open-source Python & C projects and hackathon builds<br>🤝 I’m looking for help with Advanced algorithm design and real-world software architecture<br>🌱 I’m currently learning Advanced Data Structures, System Design, and Backend Development<br>💬 Ask me about C, Python, Data Structures (Linked Lists, Stacks, Queues), and competitive coding<br>⚡ Fun fact Solved 1,200+ problems on CodeChef and still enjoy the rush of a green checkmark!
 
 
